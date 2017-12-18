@@ -9,14 +9,14 @@
     <bean id="t1000" class="ru.javabegin.training.spring.impls.robot.ModelT1000"
               p:hand-ref="toshibaHand"
               p:leg-ref="sonyLeg"
-              p:head-ref="sonyHead">
+              p:head-ref="sonyHead" scope="prototype">
 
         <constructor-arg value="silver" index="0" type="String"/>
         <constructor-arg value="2005"   index="1" type="int"/>
         <constructor-arg value="true"   index="2" type="boolean"/>
     </bean>
 <!--2)-->
-    <bean id="t1000Empty" class="ru.javabegin.training.spring.impls.robot.ModelT1000">
+    <bean id="t1000Empty" class="ru.javabegin.training.spring.impls.robot.ModelT1000" scope="prototype">
         <constructor-arg ref="sonyHand"/>
         <constructor-arg ref="sonyLeg"/>
         <constructor-arg ref="toshibaHead"/>
