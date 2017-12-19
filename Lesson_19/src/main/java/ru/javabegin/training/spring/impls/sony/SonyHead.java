@@ -6,7 +6,7 @@ public class SonyHead implements Head {
     private String color;
 
     public void calc() {
-        System.out.println("Thinking about Sony...");
+        System.out.println("Thinking about Sony..., color = " + getColor());
     }
 
     public String getColor() {
