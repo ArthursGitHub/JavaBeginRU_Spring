@@ -4,6 +4,22 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd"
        default-lazy-init="true">
 
+<!--
+    <import resource="toshiba_context.xml"/>
+    <import resource="sony_context.xml"/>
+    <import resource="db_context.xml"/>
+
+    <bean id="t1000" class="ru.javabegin.training.spring.impls.robot.ModelT1000"
+          p:hand-ref="sonyHand"
+          p:leg-ref="sonyLeg"
+          p:head-ref="sonyHead">
+        <constructor-arg value="silver" index="0" type="String"/>
+        <constructor-arg value="2005"   index="1" type="int"/>
+        <constructor-arg value="true"   index="2" type="boolean"/>
+    </bean>
+-->
+
+
     <import resource="toshiba_context.xml"/>
     <import resource="sony_context.xml"/>
     <import resource="db_context.xml"/>
