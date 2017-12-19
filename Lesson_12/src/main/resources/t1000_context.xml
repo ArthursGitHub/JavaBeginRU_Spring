@@ -14,8 +14,8 @@
           p:head-ref="sonyHead"
           depends-on="databaseBean">
         <constructor-arg value="silver" index="0" type="String"/>
-        <constructor-arg value="2005" index="1" type="int"/>
-        <constructor-arg value="true" index="2" type="boolean"/>
+        <constructor-arg value="2005"   index="1" type="int"/>
+        <constructor-arg value="true"   index="2" type="boolean"/>
     </bean>
 
     <bean id="t1000Empty" class="ru.javabegin.training.spring.impls.robot.ModelT1000">
