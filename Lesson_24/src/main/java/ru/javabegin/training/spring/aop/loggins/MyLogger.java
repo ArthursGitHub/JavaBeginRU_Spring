@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 @Component
 public class MyLogger {
     public void printValue(Object obj) {
-        System.out.println(obj);
+        System.out.println("obj: " + obj);
     }
 
     public void init() {
