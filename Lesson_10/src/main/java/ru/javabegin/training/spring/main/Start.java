@@ -6,7 +6,7 @@ import ru.javabegin.training.spring.impls.robot.ModelT1000;
 
 public class Start {
     public static void main(String[] args) {
-        ApplicationContext context = new ClassPathXmlApplicationContext("context.xml");
+        ApplicationContext context = new ClassPathXmlApplicationContext(new String[]{"context.xml"});
         // ModelT1000 t1000 = (ModelT1000) context.getBean("t1000");
         // System.out.println(t1000.getHead());
         // t1000 = (ModelT1000) context.getBean("t1000");
@@ -15,8 +15,8 @@ public class Start {
         // System.out.println(t1000.getHead());
 
          ModelT1000 t1000 = (ModelT1000) context.getBean("t1000");
-         System.out.println(t1000.getHead());
+         System.out.println(t1000);
          t1000 = (ModelT1000) context.getBean("t1000");
-         System.out.println(t1000.getHead());
+         System.out.println(t1000);
     }
 }
