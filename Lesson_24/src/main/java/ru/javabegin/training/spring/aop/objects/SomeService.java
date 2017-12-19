@@ -11,4 +11,11 @@ public class SomeService {
     public double getDoubleValue() {
         return 5.6;
     }
+
+    public double getDevision() {
+        double v = 0;
+            v = 5d/0;
+            throw new IllegalArgumentException();
+//        return v;
+    }
 }

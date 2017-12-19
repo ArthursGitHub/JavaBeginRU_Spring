@@ -12,5 +12,8 @@ public class Start {
         SomeService service = (SomeService) context.getBean("someService");
 
         double val = service.getDoubleValue();
+        System.out.println("");
+
+        val = service.getDevision();
     }
 }

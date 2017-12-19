@@ -15,4 +15,8 @@ public class MyLogger {
     public void close() {
         System.out.println("close");
     }
+
+    public void afterThrowingAdvice(IllegalArgumentException ex) {
+        System.out.println("There has been an exception: " + ex.toString());
+    }
 }

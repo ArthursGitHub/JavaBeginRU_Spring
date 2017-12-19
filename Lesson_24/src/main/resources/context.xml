@@ -14,6 +14,7 @@
             <aop:pointcut id="getValue" expression="execution(* ru.javabegin.training.spring.aop.objects.SomeService.*(..))"/>
             <aop:before pointcut-ref="getValue" method="init"/>
             <aop:after pointcut-ref="getValue" method="close"/>
+            <aop:after-throwing pointcut-ref="getValue" throwing = "ex" method="afterThrowingAdvice"/>
             <aop:after-returning pointcut-ref="getValue" returning="obj" method="printValue"/>
         </aop:aspect>
     </aop:config>
