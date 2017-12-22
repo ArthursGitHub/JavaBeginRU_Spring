@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Lesson_03" />
+        <module name="Lesson_03_01" />
+        <module name="Lesson_03_02" />
+        <module name="Lesson_05" />
+        <module name="Lesson_06" />
+        <module name="Lesson_07" />
+        <module name="Lesson_09" />
+        <module name="Lesson_10" />
+        <module name="Lesson_10_1" />
+        <module name="Lesson_10h" />
+        <module name="Lesson_11" />
+        <module name="Lesson_12" />
+        <module name="Lesson_13" />
+        <module name="Lesson_15" />
+        <module name="Lesson_15h" />
+        <module name="Lesson_16" />
+        <module name="Lesson_16h" />
+        <module name="Lesson_17" />
+        <module name="Lesson_18" />
+        <module name="Lesson_18_1" />
+        <module name="Lesson_19" />
+        <module name="Lesson_20" />
+        <module name="Lesson_22" />
+        <module name="Lesson_24" />
+        <module name="Lesson_24_1" />
+        <module name="Lesson_26" />
+        <module name="Lesson_26h" />
+        <module name="Lesson_27" />
+        <module name="Lesson_27h" />
+        <module name="Lesson_28" />
+        <module name="Lesson_28h" />
+        <module name="Lesson_29" />
+        <module name="Lesson_30" />
+        <module name="Lesson_32" />
+        <module name="Lesson_33" />
+        <module name="Lesson_33h" />
+        <module name="Lesson_34" />
+        <module name="Lesson_34h" />
+        <module name="Lesson_35" />
+        <module name="Lesson_36" />
+        <module name="Lesson_38" />
+        <module name="Lesson_38h" />
+        <module name="Lesson_39" />
+        <module name="Lesson_40" />
+        <module name="Lesson_42" />
+        <module name="Lesson_42h" />
+        <module name="Lesson_46" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Lesson_03_01" target="1.5" />
+      <module name="Lesson_03_02" target="1.5" />
+      <module name="Lesson_05" target="1.8" />
+      <module name="Lesson_06" target="1.8" />
+      <module name="Lesson_07" target="1.8" />
+      <module name="Lesson_09" target="1.8" />
+      <module name="Lesson_10" target="1.8" />
+      <module name="Lesson_10_1" target="1.5" />
+      <module name="Lesson_10h" target="1.8" />
+      <module name="Lesson_11" target="1.8" />
+      <module name="Lesson_12" target="1.8" />
+      <module name="Lesson_13" target="1.8" />
+      <module name="Lesson_15" target="1.8" />
+      <module name="Lesson_15h" target="1.8" />
+      <module name="Lesson_16" target="1.8" />
+      <module name="Lesson_16h" target="1.8" />
+      <module name="Lesson_17" target="1.8" />
+      <module name="Lesson_18" target="1.8" />
+      <module name="Lesson_18_1" target="1.8" />
+      <module name="Lesson_19" target="1.8" />
+      <module name="Lesson_20" target="1.8" />
+      <module name="Lesson_22" target="1.8" />
+      <module name="Lesson_24" target="1.8" />
+      <module name="Lesson_24_1" target="1.6" />
+      <module name="Lesson_26" target="1.8" />
+      <module name="Lesson_26h" target="1.8" />
+      <module name="Lesson_27" target="1.8" />
+      <module name="Lesson_27h" target="1.8" />
+      <module name="Lesson_28" target="1.8" />
+      <module name="Lesson_28h" target="1.8" />
+      <module name="Lesson_29" target="1.8" />
+      <module name="Lesson_29h" target="1.8" />
+      <module name="Lesson_30" target="1.8" />
+      <module name="Lesson_32" target="1.8" />
+      <module name="Lesson_33" target="1.8" />
+      <module name="Lesson_33h" target="1.8" />
+      <module name="Lesson_34" target="1.8" />
+      <module name="Lesson_34h" target="1.8" />
+      <module name="Lesson_35" target="1.8" />
+      <module name="Lesson_36" target="1.8" />
+      <module name="Lesson_38" target="1.8" />
+      <module name="Lesson_38h" target="1.8" />
+      <module name="Lesson_39" target="1.8" />
+      <module name="Lesson_40" target="1.8" />
+      <module name="Lesson_42" target="1.8" />
+      <module name="Lesson_42h" target="1.8" />
+      <module name="Lesson_46" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
