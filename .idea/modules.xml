@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaBeginRU_Spring.iml" filepath="$PROJECT_DIR$/JavaBeginRU_Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_03_01/Lesson_03_01.iml" filepath="$PROJECT_DIR$/Lesson_03_01/Lesson_03_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_03_02/Lesson_03_02.iml" filepath="$PROJECT_DIR$/Lesson_03_02/Lesson_03_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_05/Lesson_05.iml" filepath="$PROJECT_DIR$/Lesson_05/Lesson_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_06/Lesson_06.iml" filepath="$PROJECT_DIR$/Lesson_06/Lesson_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_07/Lesson_07.iml" filepath="$PROJECT_DIR$/Lesson_07/Lesson_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_09/Lesson_09.iml" filepath="$PROJECT_DIR$/Lesson_09/Lesson_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_10/Lesson_10.iml" filepath="$PROJECT_DIR$/Lesson_10/Lesson_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_10_1/Lesson_10_1.iml" filepath="$PROJECT_DIR$/Lesson_10_1/Lesson_10_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_10h/Lesson_10h.iml" filepath="$PROJECT_DIR$/Lesson_10h/Lesson_10h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_11/Lesson_11.iml" filepath="$PROJECT_DIR$/Lesson_11/Lesson_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_12/Lesson_12.iml" filepath="$PROJECT_DIR$/Lesson_12/Lesson_12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_13/Lesson_13.iml" filepath="$PROJECT_DIR$/Lesson_13/Lesson_13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_15/Lesson_15.iml" filepath="$PROJECT_DIR$/Lesson_15/Lesson_15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_15h/Lesson_15h.iml" filepath="$PROJECT_DIR$/Lesson_15h/Lesson_15h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_16/Lesson_16.iml" filepath="$PROJECT_DIR$/Lesson_16/Lesson_16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_16h/Lesson_16h.iml" filepath="$PROJECT_DIR$/Lesson_16h/Lesson_16h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_17/Lesson_17.iml" filepath="$PROJECT_DIR$/Lesson_17/Lesson_17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_18/Lesson_18.iml" filepath="$PROJECT_DIR$/Lesson_18/Lesson_18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_18_1/Lesson_18_1.iml" filepath="$PROJECT_DIR$/Lesson_18_1/Lesson_18_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_19/Lesson_19.iml" filepath="$PROJECT_DIR$/Lesson_19/Lesson_19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_20/Lesson_20.iml" filepath="$PROJECT_DIR$/Lesson_20/Lesson_20.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_22/Lesson_22.iml" filepath="$PROJECT_DIR$/Lesson_22/Lesson_22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_24/Lesson_24.iml" filepath="$PROJECT_DIR$/Lesson_24/Lesson_24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_24_1/Lesson_24_1.iml" filepath="$PROJECT_DIR$/Lesson_24_1/Lesson_24_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_26/Lesson_26.iml" filepath="$PROJECT_DIR$/Lesson_26/Lesson_26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_26h/Lesson_26h.iml" filepath="$PROJECT_DIR$/Lesson_26h/Lesson_26h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_27/Lesson_27.iml" filepath="$PROJECT_DIR$/Lesson_27/Lesson_27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_27h/Lesson_27h.iml" filepath="$PROJECT_DIR$/Lesson_27h/Lesson_27h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_28/Lesson_28.iml" filepath="$PROJECT_DIR$/Lesson_28/Lesson_28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_28h/Lesson_28h.iml" filepath="$PROJECT_DIR$/Lesson_28h/Lesson_28h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_29/Lesson_29.iml" filepath="$PROJECT_DIR$/Lesson_29/Lesson_29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_30/Lesson_30.iml" filepath="$PROJECT_DIR$/Lesson_30/Lesson_30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_32/Lesson_32.iml" filepath="$PROJECT_DIR$/Lesson_32/Lesson_32.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_33/Lesson_33.iml" filepath="$PROJECT_DIR$/Lesson_33/Lesson_33.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_33h/Lesson_33h.iml" filepath="$PROJECT_DIR$/Lesson_33h/Lesson_33h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_34/Lesson_34.iml" filepath="$PROJECT_DIR$/Lesson_34/Lesson_34.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_34h/Lesson_34h.iml" filepath="$PROJECT_DIR$/Lesson_34h/Lesson_34h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_35/Lesson_35.iml" filepath="$PROJECT_DIR$/Lesson_35/Lesson_35.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_36/Lesson_36.iml" filepath="$PROJECT_DIR$/Lesson_36/Lesson_36.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_38/Lesson_38.iml" filepath="$PROJECT_DIR$/Lesson_38/Lesson_38.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_38h/Lesson_38h.iml" filepath="$PROJECT_DIR$/Lesson_38h/Lesson_38h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_39/Lesson_39.iml" filepath="$PROJECT_DIR$/Lesson_39/Lesson_39.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_40/Lesson_40.iml" filepath="$PROJECT_DIR$/Lesson_40/Lesson_40.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_42/Lesson_42.iml" filepath="$PROJECT_DIR$/Lesson_42/Lesson_42.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_42h/Lesson_42h.iml" filepath="$PROJECT_DIR$/Lesson_42h/Lesson_42h.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lesson_46/Lesson_46.iml" filepath="$PROJECT_DIR$/Lesson_46/Lesson_46.iml" />
+    </modules>
+  </component>
+</project>

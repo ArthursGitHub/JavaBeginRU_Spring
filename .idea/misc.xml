@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Lesson_46" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Lesson_03/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_03_01/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_03_02/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_05/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_06/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_07/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_09/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_10/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_10_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_10h/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_11/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_12/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_13/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_15/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_15h/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_16/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_16h/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_17/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_18/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_18_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_19/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_20/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_22/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_24/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_26/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_24_1/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_26h/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_27/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_27h/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_28/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_28h/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_29/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_29h/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_30/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_32/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_33/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_33h/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_34/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_34h/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_35/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_36/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_38/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_38h/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_39/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_40/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_42/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_42h/pom.xml" />
+        <option value="$PROJECT_DIR$/Lesson_46/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
